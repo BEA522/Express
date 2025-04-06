@@ -1,0 +1,50 @@
+.acoordion-button:not(.collapsed) {
+    background-color: rosybrown;
+    color: black;
+    font-weight: 900;
+}
+
+body {  
+    font-family: Arial, sans-serif;  
+    line-height: 1.6;  
+    margin: 0;
+    padding: 0; 
+}  
+h1, h2 {  
+    color: #4CAF50;  
+}  
+p {  
+    margin-bottom: 10px;  
+} 
+
+
+header{
+    background-color: aquamarine;
+    padding: 16px;
+}
+
+header h1 {
+    color:black;
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    display: inline-block;
+    position: relative;
+    bottom: 35px;
+    margin-left: 10px;
+}
+
+
+footer {
+    background-color: #ccc;
+    color: #333;
+    clear: both;
+    padding: 50px 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.holder {
+    max-width: 960px;
+    margin: 0 auto;
+}
