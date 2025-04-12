@@ -5,8 +5,8 @@
 }
 
 body {  
-    font-family: Arial, sans-serif;  
-    line-height: 1.6;  
+    font-family: Arial, sans-serif;
+    line-height: 1.6;    
     margin: 0;
     padding: 0; 
 }  
@@ -20,7 +20,7 @@ p {
 
 header{
     background-color: aquamarine;
-    padding: 16px;
+    padding: 16px 0;
 }
 
 header h1 {
@@ -48,3 +48,9 @@ footer {
     max-width: 960px;
     margin: 0 auto;
 }
+
+h2 {
+    color: aquamarine;
+    font-weight: 400;
+}
+
